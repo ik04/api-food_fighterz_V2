@@ -59,12 +59,4 @@ def index(request):
         
 
 
-# @api_view(['GET','POST'])
-# def main(request):
-#     if request.method == "GET":
-#          return Response("Welcome To The FoodFighters Api")
-
-#     if request.method == "POST":
-        
-     
    
